@@ -22,7 +22,6 @@ public class LeerFichero {
      *
      * @param archivo contiene la ruta del fichero
      * @throws FileNotFoundException excepcion por si no encuentra el fichero
-     * diferentes a un numero.
      * @throws IOException
      */
     public static void leerArchivo(String archivo) throws FileNotFoundException, IOException, Exception {
